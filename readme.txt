@@ -1,1 +1,1 @@
-my fist git project !
+my first git project !
